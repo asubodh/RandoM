@@ -1,2 +1,2 @@
 # RandoM
- Everythign here is RandoM
+ Everything here is RandoM
