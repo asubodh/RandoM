@@ -1,6 +1,10 @@
+document.addEventListener('DOMContentLoaded', function() {
+
+
 var content = document.getElementsByTagName('body')[0];
 var darkMode = document.getElementById('dark-to-light');
 darkMode.addEventListener('click', function () {
     darkMode.classList.toggle('active');
     content.classList.toggle('night');
 });
+}, false);
