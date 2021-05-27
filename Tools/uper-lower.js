@@ -15,6 +15,7 @@ function myFunction() {
     copyText.setSelectionRange(0, 99999)
     document.execCommand("copy");
 };
+
 function my_Function() {
     var copyText = document.getElementById("lower");
     copyText.select();
